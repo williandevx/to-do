@@ -3,5 +3,4 @@
 
 #### Links de contato:
 
-- [GitHub](https://github.com/williandevx/)
-- [E-mail](williandevx@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/williandevx)
